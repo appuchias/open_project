@@ -14,7 +14,7 @@ It searches every folder specified in the .env file (find a template [here](temp
 1. Clone the repo: `git clone https://github.com/appuchias/open_project.git`
 1. Navigate into the repo folder: `cd open_project`
 1. Run the file: `python main.py`
-1. It is highly recommended to add this project or a shortcut to your PATH to make it more handy to use (More info in [project_creator](https://github.com/appuchias/project_creator)).
+1. It is highly recommended to add this project or a shortcut to it to your PATH to make it more handy to use (More info in [project_creator](https://github.com/appuchias/project_creator)).
 
 ## License
 
